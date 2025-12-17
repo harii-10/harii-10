@@ -1,94 +1,68 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5NTQ3MjgsIm5iZiI6MTc2NTk1NDQyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE3VDA2NTM0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMGY0ODZhZTZkYzQwYzJjODA4YWQzZjkyNTYzYTM3MWNmMjcyNzEwNDgxNjkxNTJjZGRhYmE4NzIxYTNiOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mjMly9z4bnw9CKmgzEe-HCjf19Dodn8XWM2t995ykFs)](https://rishavchanda.io)
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+</div>
 
-<h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">Cybersecurity Enthusiast | DFIR • SOC • AI Security</h3>
+###
 
-<img align="right" alt="Forensics & Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hariharan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+</div>
 
-### 👨‍💻 About Me
+###
 
-- 🎓 **3rd Year B.E Student**
-- 🔐 Passionate about **Digital Forensics, SOC Operations & Threat Intelligence**
-- 🧠 Exploring **AI-powered Security & Malware Analysis**
-- 🏁 Active in **CTFs (Forensics, Crypto, Steganography, Misc)**
-- 🛠️ Comfortable with **Linux, Networking & Security Tooling**
-- 🎯 Goal: **Cybersecurity Internship / SOC Analyst Role**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
----
+###
 
-### 🔭 Current Focus
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harii-10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=harii-10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-- 🕵️ DFIR Labs & Memory / Disk Analysis  
-- 📊 SOC Level 1 Skills (SIEM, Logs, Incident Flow)  
-- 🤖 ML-based Intrusion Detection  
-- 🌐 Secure Web & Network Traffic Analysis  
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph.svg">
+</picture>
 
-### 🧰 Tools & Technologies
+###
 
-**Security & Forensics**
-- Wireshark, Volatility, Autopsy, FTK Imager  
-- Nmap, RustScan, Burp Suite, Metasploit  
-- Steghide, Zsteg, Binwalk, Foremost  
-- SIEM basics (Splunk concepts)
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
-**Programming & Scripting**
-- Python (Security Automation)
-- Java (LLD & System Design)
-- JavaScript (Node.js, React basics)
-
-**Platforms & Dev**
-- Linux (Parrot OS, Kali)
-- Git & GitHub
-- MongoDB, MySQL
-- Docker (Basics)
-
----
-
-### 🧪 Projects
-
-- 🔐 **XenGuard** – Threat Intelligence Dashboard (MERN)
-- 🧠 **ML-based IDS** – Encrypted Traffic Classification
-- 🌐 **AI-powered Web Security Scanner**
-- 🧾 **Network Traffic Encryption Analysis**
-- 🧠 **CTF Writeups** – Forensics & Crypto Focus
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharan&show_icons=true&layout=compact&theme=tokyonight"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharan&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan&theme=tokyonight"/>
-</p>
-
----
-
-⚡ **Fun Fact:** I enjoy breaking things securely before attackers do 😉
+###

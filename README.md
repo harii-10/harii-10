@@ -64,8 +64,7 @@
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
 ```csharp
-    Details
-    ------------------------------------------
+-> ~/heisenberg/cyberlab > cat profile.txt    ------------------------------------------
     Status: Cybersecurity Student
     Current Focus: SOC Operations | Blue Teaming
     Interests: Threat Detection, Log Analysis, Malware, DFIR

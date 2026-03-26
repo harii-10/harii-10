@@ -1,68 +1,90 @@
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
-</div>
-
-###
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+<h1 align="center">
+  Hi there 👋 I'm Hariharan M
+</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00bfff&duration=4000&size=26&lines=Cybersecurity+Student;SOC+Analyst+Enthusiast;Digital+Forensics;Web+Security;CTF+Player;Python+for+Security" />
+    </a>
+  </p>
 </div>
 
-###
+<p align="center">
+  Passionate about Cybersecurity, Digital Forensics, Threat Intelligence and Security Research.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+---
 
-###
+## 👨‍💻 A bit about me...
+- 🔐 Cybersecurity Student
+- 🛡️ Interested in SOC, DFIR, Web Security
+- 🐍 Python for Security Automation
+- 🌐 Building Security Tools & Projects
+- 🎯 Preparing for Cybersecurity Internships
+- 🧠 Always learning, hacking, and building
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harii-10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=harii-10&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## 🚀 Cybersecurity Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harii-10/harii-10/output/pacman-contribution-graph.svg">
-</picture>
+**Domains**
+- Network Security
+- Web Application Security
+- Digital Forensics
+- Threat Intelligence
+- SOC Operations
+- Incident Response
 
-###
+**Tools**
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
+- Splunk
+- Autopsy
+- Volatility
+- Nessus
+- OpenVAS
+- Linux
+- Git
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📂 Cybersecurity Projects
+- 🔍 AI Powered Web Security Scanner
+- 🛡️ Threat Intelligence Dashboard
+- 📊 Network Traffic Encryption Analysis
+- 🚨 Intrusion Detection System using ML
+- 🌐 Vulnerability Scanner
+- 🧪 TryHackMe Writeups
+- 🏴 CTF Writeups
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your LinkedIn)
+- Email: (Add your email)
+- TryHackMe: (Add profile)

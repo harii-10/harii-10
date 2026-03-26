@@ -64,12 +64,30 @@
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
 ```csharp
--> ~/heisenberg/cyberlab > cat profile.txt 
-    Status: Cybersecurity Student
-    Current Focus: SOC Operations | Blue Teaming
-    Interests: Threat Detection, Log Analysis, Malware, DFIR
-    Learning Path: TryHackMe | Labs | Security Projects
-    Long Term Goal: Digital Forensics & Incident Response (DFIR)
-    Mission: Detect → Analyze → Investigate → Respond
+-> ~/heisenberg/cyberlab > cat profile.txt
 
+Status: Cybersecurity Student
+
+Current Focus:
+    - SOC Operations
+    - Blue Teaming
+    - Log Analysis
+
+Interests:
+    - Threat Detection
+    - Malware Analysis
+    - DFIR
+
+Learning Path:
+    - TryHackMe
+    - Security Labs
+    - Blue Team Tools
+
+Long Term Goal:
+    Digital Forensics
+    & Incident Response
+
+Mission:
+    Detect -> Analyze
+    Investigate -> Respond
 ```

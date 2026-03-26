@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi There</h2>
-<p align="center">My name is Damian and welcome to my github profile</p>
+<p align="center">My name is Hari and welcome to my github profile</p>
 
 ```zsh
 -> ~/Portfolio git:(main) > ./start.sh

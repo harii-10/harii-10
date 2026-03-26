@@ -29,12 +29,12 @@
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="icons/csharp.png" width="65px"/>
-                <br /> C#
+                <img src="icons/splunk.jpg" width="65px"/>
+                <br /> Splunk
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/java.png" width="65px"/>
-                <br /> Java
+                <img src="icons/wireshark.png" width="65px"/>
+                <br /> Wireshark
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/javascript.png" width="65px"/>

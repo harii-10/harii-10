@@ -51,7 +51,7 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/wazuh2.png" width="65px"/>
+                <img src="icons/wazuh.webp" width="65px"/>
                 <br /> Wazuh
             </td>
         </tr>

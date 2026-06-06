@@ -43,8 +43,8 @@
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="icons/postgresql.png" width="65px"/>
-                <br /> Postgresql
+                <img src="icons/mitre.png" width="65px"/>
+                <br /> MITRE ATT&CK
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/python.png" width="65px"/>

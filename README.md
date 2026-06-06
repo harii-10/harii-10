@@ -37,8 +37,8 @@
                 <br /> Wireshark
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/javascript.png" width="65px"/>
-                <br /> Javascript
+                <img src="icons/nmap.jpg" width="65px"/>
+                <br /> Nmap
             </td>
         </tr>
         <tr>

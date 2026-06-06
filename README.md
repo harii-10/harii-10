@@ -51,8 +51,8 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/sass.png" width="65px"/>
-                <br /> Sass
+                <img src="icons/wazuh.png" width="65px"/>
+                <br /> Wazuh
             </td>
         </tr>
     </table>
